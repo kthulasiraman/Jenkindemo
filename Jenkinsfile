@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "interviewdot/cicd-k8s-demo"
+    registry = "1339959thulasiraman/cicd-k8s-demo"
     registryCredential = '1339959thulasiraman'
     dockerImage = ''
   }
